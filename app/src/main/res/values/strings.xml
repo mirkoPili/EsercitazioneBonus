@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EsercitazioneBonus</string>
+    <string name="modpass"><u>Modifica password</u></string>
+    <string name="registrati"><u>Nuovo utente? Registrati</u></string>
+    <string name="accedi">Accedi</string>
+    <string name="registrati2">Registrati</string>
+    <string name="AggiornaPass">Aggiorna password</string>
+    <string name="home">Home</string>
+</resources>
